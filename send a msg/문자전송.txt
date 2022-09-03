@@ -1,0 +1,9 @@
+주제: java와 API를 이용한 문자 전송 프로그램
+
+1. https://coolsms.co.kr/ 회원가입 후 key 발급 받기
+2. API key, API secret 기억해두기
+
+3. lib폴더 안에 javaSDK-2.2.jar / json-simple-1.1.1.jar 파일 넣어주기
+4. Build Path - Libraries - Classpath - Add JARs... - javaSDK-2.2.jar / json-simple-1.1.1.jar 파일 넣어주기
+
+5. 코딩
